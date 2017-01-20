@@ -1,6 +1,2 @@
 aaaaaaaddaabbbbbb
-cccccccc
-eeeeeeee
-ffffffff
-dddddddd
-sdsfdsfdsf
+ccccccc
